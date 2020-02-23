@@ -31,7 +31,7 @@ class Database {
         useFindAndModify: true,
         useUnifiedTopology: true
       }
-    )
+    );
   }
 
 }
